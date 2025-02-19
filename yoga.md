@@ -16,3 +16,11 @@ El yoga es una disciplina que combina posturas físicas, respiración y meditaci
 -Practica en un espacio tranquilo.
 -Mantén cada postura (asana) entre 20-60 segundos.
 -Respira profundamente en cada postura.
+
+
+##Consejos:
+
+-No te apresures, mantén un ritmo suave.
+-Asegúrate de alinear correctamente el cuerpo para evitar tensiones.
+-Usa bloques o cinturones si necesitas apoyo en algunas posturas.
+
