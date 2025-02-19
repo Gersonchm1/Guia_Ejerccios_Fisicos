@@ -17,3 +17,10 @@ El boxeo es un deporte de combate que combina la técnica de golpes con entrenam
 -Realiza combinaciones de golpes y movimientos de pies.
 -Practica en el saco o con sparring (compañero de entrenamiento).
 
+
+##Consejos:
+
+-No olvides calentar antes de entrenar para evitar lesiones.
+-Practica la técnica con cuidado para evitar tensión en las muñecas y los hombros.
+-Mantén una postura sólida y controla tus movimientos.
+
