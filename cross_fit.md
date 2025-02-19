@@ -16,3 +16,10 @@ El CrossFit es un entrenamiento de alta intensidad que combina levantamiento de 
 -Realiza entrenamientos variados que incluyen pesas, carreras, saltos y otros ejercicios funcionales.
 -Escoge un programa adecuado a tu nivel de habilidad.
 -Los entrenamientos suelen ser cortos pero intensos.
+
+##Consejos:
+
+-Enfócate en aprender la técnica correcta antes de aumentar la intensidad.
+-Escucha a tu cuerpo y ajusta los ejercicios según sea necesario.
+-Realiza descansos adecuados entre entrenamientos para evitar el agotamiento.
+
