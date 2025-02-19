@@ -18,3 +18,11 @@ El ciclismo es una actividad cardiovascular que se realiza en bicicleta, puede s
 -Ajusta la bicicleta para que tu posición sea cómoda.
 -Pedalea a una velocidad constante durante 30-60 minutos.
 -Aumenta la intensidad o la duración conforme vayas mejorando.
+
+
+##Consejos:
+
+-Usa casco y equipo de seguridad.
+-Mantén una postura correcta para evitar dolor lumbar.
+-Realiza estiramientos después de la sesión para aliviar la tensión muscular.
+
