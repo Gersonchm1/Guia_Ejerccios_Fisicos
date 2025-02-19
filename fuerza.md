@@ -9,3 +9,10 @@ El entrenamiento de fuerza implica levantar pesas o usar máquinas de resistenci
 -Escoge pesos adecuados a tu nivel de fuerza.
 -Realiza series de 8-12 repeticiones con descansos de 60-90 segundos entre series.
 -Enfócate en trabajar grupos musculares grandes.
+
+##Beneficios:
+
+-Aumenta la masa muscular.
+-Mejora la salud ósea.
+-Incrementa el metabolismo.
+-Previene lesiones mejorando la estabilidad.
