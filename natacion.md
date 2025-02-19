@@ -18,3 +18,11 @@ La natación es un ejercicio de bajo impacto que involucra todos los grupos musc
 -Practica diferentes estilos: crol, braza, espalda y mariposa.
 -Realiza sesiones de 20-40 minutos.
 -Respira de manera controlada, especialmente al nadar en crol.
+
+
+##Consejos:
+
+-Aprende la técnica adecuada de respiración para maximizar la eficiencia.
+-Alterna estilos para trabajar diferentes músculos.
+-Mantén una buena hidratación durante y después de nadar.
+
