@@ -12,3 +12,9 @@ La natación es un ejercicio de bajo impacto que involucra todos los grupos musc
 -Es excelente para personas con problemas articulares.
 -Ayuda a reducir el estrés.
 
+
+##Instrucciones:
+
+-Practica diferentes estilos: crol, braza, espalda y mariposa.
+-Realiza sesiones de 20-40 minutos.
+-Respira de manera controlada, especialmente al nadar en crol.
