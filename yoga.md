@@ -10,3 +10,9 @@ El yoga es una disciplina que combina posturas físicas, respiración y meditaci
 -Incrementa la concentración y la paz mental.
 -Promueve el bienestar general.
 
+
+##Instrucciones:
+
+-Practica en un espacio tranquilo.
+-Mantén cada postura (asana) entre 20-60 segundos.
+-Respira profundamente en cada postura.
