@@ -16,3 +16,8 @@ El entrenamiento funcional está diseñado para mejorar la capacidad de realizar
 -Usa tu propio peso corporal o herramientas como kettlebells.
 -Realiza entrenamientos de alta intensidad por intervalos.
 
+##Consejos:
+
+-Enfócate en movimientos que imiten las actividades diarias.
+-Mantén el control de la respiración durante los ejercicios.
+-No descuides la técnica para evitar lesiones.
