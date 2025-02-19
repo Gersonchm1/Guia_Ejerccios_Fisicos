@@ -18,3 +18,9 @@ El pilates es un sistema de ejercicios que mejora la flexibilidad, la fuerza cen
 -Practica movimientos lentos y controlados.
 -Mantén el enfoque en la respiración.
 -Realiza ejercicios en una colchoneta o utilizando máquinas de pilates.
+
+##Consejos:
+
+-Mantén el abdomen contraído para proteger la columna.
+-Realiza las repeticiones de forma lenta para mayor efectividad.
+-Escucha a tu cuerpo para evitar sobrecargar las articulaciones.
