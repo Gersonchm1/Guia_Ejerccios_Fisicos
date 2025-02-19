@@ -9,3 +9,10 @@
 -Reduce el riesgo de lesiones.
 -Alivia el dolor muscular.
 -Mejora la postura.
+
+
+##Instrucciones:
+
+-Realiza estiramientos suaves y controlados.
+-Mantén cada estiramiento entre 15-30 segundos.
+-Realiza estiramientos tanto estáticos como dinámicos.
