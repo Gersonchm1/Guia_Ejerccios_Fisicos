@@ -16,3 +16,11 @@
 -Realiza estiramientos suaves y controlados.
 -Mantén cada estiramiento entre 15-30 segundos.
 -Realiza estiramientos tanto estáticos como dinámicos.
+
+
+##Consejos:
+
+-Estira después de un calentamiento para evitar lesiones.
+-Respira profundamente durante los estiramientos.
+-No rebotes ni fuerces los estiramientos.
+
