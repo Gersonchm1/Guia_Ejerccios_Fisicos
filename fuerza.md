@@ -16,3 +16,9 @@ El entrenamiento de fuerza implica levantar pesas o usar máquinas de resistenci
 -Mejora la salud ósea.
 -Incrementa el metabolismo.
 -Previene lesiones mejorando la estabilidad.
+
+##Consejos:
+
+-No uses pesos demasiado altos si eres principiante.
+-Asegúrate de mantener una técnica correcta.
+-Realiza estiramientos después de cada sesión para prevenir rigidez.
