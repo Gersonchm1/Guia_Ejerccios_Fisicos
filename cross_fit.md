@@ -2,3 +2,11 @@
 
 ##Descripción:
 El CrossFit es un entrenamiento de alta intensidad que combina levantamiento de pesas, ejercicios cardiovasculares y movimientos funcionales.
+
+
+##Beneficios:
+
+-Aumenta la fuerza, la resistencia y la flexibilidad.
+-Mejora la capacidad cardiovascular.
+-Quema calorías rápidamente.
+-Fomenta el trabajo en equipo y la comunidad.
